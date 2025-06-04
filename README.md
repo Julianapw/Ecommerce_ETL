@@ -1,5 +1,12 @@
 # API Ecommerce Fashion + ETL para Data Warehouse
 
+## AUTORES
+
+- Ana Beatriz Maranho Oliveira Silva - 23000755  
+- Julia Carolina Kimura - 23031075  
+- Juliana Prado - 24003497  
+- Laura Nogueira Pereira - 24013968  
+
 ## Descrição
 
 Este projeto consiste em uma API RESTful desenvolvida com Flask para gerenciar operações básicas de um e-commerce de moda, incluindo criação de contas, login e faturamento de pedidos. Além disso, implementa processos ETL que extraem dados do banco relacional MySQL, transformam e carregam em um Data Warehouse baseado em MongoDB.
@@ -29,9 +36,4 @@ O objetivo é demonstrar a integração entre bancos de dados relacionais e NoSQ
 - `database.py`: Conexão com MySQL e MongoDB  
 - `teste_api.py`: Script para testar as rotas da API via HTTP requests  
 
-## AUTORES
 
-- Ana Beatriz Maranho Oliveira Silva - 23000755  
-- Julia Carolina Kimura - 23031075  
-- Juliana Prado - 24003497  
-- Laura Nogueira Pereira - 24013968  
